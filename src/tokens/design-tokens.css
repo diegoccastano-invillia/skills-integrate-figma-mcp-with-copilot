@@ -1,0 +1,21 @@
+:root {
+  /* Colors - Danger */
+  --sds-color-text-danger-on-danger: #fee9e7;
+  --sds-color-background-danger-default: #ec221f;
+  --sds-color-border-danger-secondary: #c00f0c;
+
+  /* Typography - Body */
+  --sds-typography-body-size-medium: 16;
+  --sds-typography-body-font-family: Inter;
+  --sds-typography-body-font-weight-regular: 400;
+
+  /* Spacing */
+  --sds-size-space-200: 8;
+  --sds-size-space-300: 12;
+
+  /* Radius */
+  --sds-size-radius-200: 8;
+
+  /* Stroke */
+  --sds-size-stroke-border: 1;
+}
